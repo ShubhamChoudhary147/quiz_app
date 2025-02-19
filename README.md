@@ -35,7 +35,7 @@ The **Interactive Quiz Platform** is a web application that allows users to atte
 ### **1️⃣ Clone the Repository**  
 ```sh
 git clone https://github.com/ShubhamChoudhary147/Quiz-App.git
-cd Quiz-App
+cd quiz_app
 ```
 
 ### **2️⃣ Install Dependencies** 
@@ -47,3 +47,5 @@ npm install
 ```sh
 npm run dev
 ```
+## 🚀 Live Demo
+🔗 [Visit quiz_app](https://quizzmore.vercel.app/)
