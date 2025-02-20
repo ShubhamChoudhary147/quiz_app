@@ -34,7 +34,7 @@ The **Interactive Quiz Platform** is a web application that allows users to atte
 
 ### **1️⃣ Clone the Repository**  
 ```sh
-git clone https://github.com/ShubhamChoudhary147/Quiz-App.git
+git clone https://github.com/ShubhamChoudhary147/quiz_app.git
 cd quiz_app
 ```
 
